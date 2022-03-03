@@ -2,4 +2,4 @@
 
 ## A catalog of vehicles from specific countries
 
-![github](./ss.png);
+![github](./ss.png)
